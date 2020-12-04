@@ -1,0 +1,167 @@
+#about-section{
+    background-color: #f1f1f1;
+    padding: 80px 0 50px 0;
+
+
+}
+
+.about-title{
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 40px;
+    position: relative;
+}
+.about-title::before{
+    content: "";
+    height: 3px;
+    width: 120px;
+    position: absolute;
+    background-color: #111;
+   margin-top: 50px;
+}
+.about-title::after{
+    content: "";
+    width: 30px;
+    height: 8px;
+    background-color: #48dbfb;
+    position: absolute;
+    margin-top: 47px;
+    left: calc(50% - 9px)
+}
+
+.about-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0 auto 60px;
+
+
+}
+.about-text{
+    flex:1;
+    margin: 0 30px;
+    padding-right: 20px;
+}
+h2{
+    margin:10px 0;
+    font-size: 25px;
+}
+h3{
+    margin:10px 0;
+}
+
+h3 span{
+    font-size: 15px;
+}
+
+.about-text h3 span:nth-child(1):after,
+.about-text h3 span:nth-child(2):after{
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: #444;
+ margin: 0 12px;
+    margin-bottom: 3px;
+    border-radius: 50%;
+}
+
+.about-text p{
+    font-size: 19px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.about-text{
+max-width: 900px;
+    flex: 100%;
+
+}
+.inner-width{
+    margin: 0 40px;
+}
+
+.skills{
+    margin-top : 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.skill{
+ width: calc(50% - 20px);
+    margin: 15px 0;
+}
+
+.skill-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill-bar{
+    content: "";
+    height: 6px;
+    background-color: #ddd;
+    position: relative;
+    border-radius: 15px;
+}
+
+.skill-bar::after{
+    content: "";
+    height: 6px;
+    position: absolute;
+
+    border-radius: 15px;
+    background-color: #48dbfb;
+}
+.react::after{
+    width:90% ;
+}
+.html::after{
+    width:80% ;
+}
+
+.redux::after{
+    width:90% ;
+}
+
+.js::after{
+    width:80% ;
+}
+
+.css::after{
+    width:85% ;
+}
+
+
+
+.skills{
+    margin: 15px;
+}
+@media screen and (max-width: 800px) {
+
+    .skill{
+        width: 100%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

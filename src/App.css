@@ -1,38 +1,139 @@
-.App {
-  text-align: center;
+
+*{
+    font-family: "Ubuntu",sans-serif;
+    text-decoration: none;
+    margin:0;
+    padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.inner{
+
+}
+.logo{
+    width: 31px;
+    height: 25px;
+   margin-left: 50px;
+    display: flex;
+    float: left;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.inner .navbar{
+    position: fixed;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 20px 0;
+    top: 0;
+    z-index: 999;
+
+    transition: .3s linear;
+    text-align: right ;
+
+
+}
+.inner .navbar a{
+    color: black;
+    font-size: 18px;
+    margin-left: 30px;
+
+    transition: 0.3s;
+    font-weight: 700;
+}
+.inner .navbar a:last-child{
+    margin-right: 100px;
+}
+.inner .navbar a:hover{
+    color: #48dbfb;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+#home{
+height: 100vh;
+    background: url("./images/bg.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
 }
 
-.App-link {
-  color: #61dafb;
+
+.inner h1{
+    padding-bottom: 25px;
+    color: #fff;
+    width: 100%;
+    font-weight: 800;
+    font-size: 60px;
+}
+.inner .content{
+
+}
+html{
+    scroll-behavior: smooth;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.inner .smm a{
+margin: 0 10px ;
+   padding: 5px;
+    padding-top: 15px;
+
 }
+
+
+.smm a:hover{
+ border-left : 1px #ffffff solid;
+    border-right : 1px #ffffff solid;
+
+}
+
+.inner .buttons{
+margin :25px;
+
+}
+.inner .buttons a{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px ;
+    width: 180px;
+    transition: .2s linear;
+
+    border: 1px #48dbfb solid;
+    border-radius: 6px;
+    color: #48dbfb;
+    padding: 8px;
+
+}
+.inner .buttons a:hover{
+    color: #fff;
+    background-color: #48dbfb;
+    cursor: pointer;
+}
+#home .content h1::after{
+    content: "my name is Marian";
+    animation: textanim 10s linear infinite;
+}
+@keyframes textanim {
+    25%{
+        content: "I am looking for a job";
+    }
+    50%{
+        content: "I am motivated";
+    }
+
+    75%{
+        content: "I am ready!";
+    }
+}
+
+
+
+
+
+
+
+

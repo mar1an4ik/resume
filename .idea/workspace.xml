@@ -1,30 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdacc60c-3872-4df0-9409-a367530e1f48" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="bdacc60c-3872-4df0-9409-a367530e1f48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gXVkMyT5p72F1lBndEFcDTgeHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\solo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="npm.deploy" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -35,8 +80,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598261065039</updated>
-      <workItem from="1598261066381" duration="240000" />
+      <workItem from="1598261066381" duration="7178000" />
+      <workItem from="1598687319646" duration="1284000" />
+      <workItem from="1599116827904" duration="587000" />
+      <workItem from="1599291465042" duration="11531000" />
+      <workItem from="1599401789765" duration="5240000" />
+      <workItem from="1599463324164" duration="10077000" />
+      <workItem from="1600064609785" duration="10356000" />
+      <workItem from="1600148215399" duration="3647000" />
+      <workItem from="1600158326515" duration="15785000" />
+      <workItem from="1600331905047" duration="1069000" />
+      <workItem from="1600676675177" duration="610000" />
+      <workItem from="1600679385217" duration="1600000" />
+      <workItem from="1601310835628" duration="544000" />
+      <workItem from="1601366899637" duration="284000" />
+      <workItem from="1601439029843" duration="140000" />
+      <workItem from="1601439190592" duration="9000" />
+      <workItem from="1601439211343" duration="36000" />
+      <workItem from="1601451321870" duration="62000" />
+      <workItem from="1601524187576" duration="9000" />
+      <workItem from="1601524228091" duration="3000" />
+      <workItem from="1601524650659" duration="1022000" />
+      <workItem from="1601525909615" duration="832000" />
+      <workItem from="1601528107706" duration="626000" />
+      <workItem from="1603355578343" duration="65000" />
+      <workItem from="1603359084785" duration="138000" />
+      <workItem from="1603361293622" duration="370000" />
+      <workItem from="1603361725968" duration="30000" />
+      <workItem from="1603362999136" duration="14000" />
+      <workItem from="1607110616267" duration="689000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="141" key="GridCell.Tab.0.bottom" timestamp="1603361663844">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1345" height="141" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1603361663844" />
+    <state width="1345" height="141" key="GridCell.Tab.0.center" timestamp="1603361663844">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1345" height="141" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1603361663844" />
+    <state width="1345" height="141" key="GridCell.Tab.0.left" timestamp="1603361663843">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1345" height="141" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1603361663843" />
+    <state width="1345" height="141" key="GridCell.Tab.0.right" timestamp="1603361663844">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1345" height="141" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1603361663844" />
   </component>
 </project>

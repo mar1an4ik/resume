@@ -1,0 +1,116 @@
+#contactsSection{
+    background-color: #f1f1f1;
+    padding: 80px 0 0;
+
+
+}
+
+.title{
+    text-align: center;
+    padding-bottom: 80px;
+    font-size: 33px;
+    position: relative;
+    color:#111
+
+}
+.inner{
+    margin: 0 40px;
+
+}
+
+.title::before{
+    content: "";
+    height: 3px;
+    width: 120px;
+    position: absolute;
+    background-color: #111;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.title::after{
+    content: "";
+    width: 30px;
+    height: 8px;
+    background-color: #48dbfb;
+    position: absolute;
+    margin-top: 47px;
+    left: calc(50% - 19px)
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    ;
+    flex-wrap: wrap;
+}
+.block{
+    width: calc(33% - 20px);
+    height: 160px;
+    background-color: #353b48;
+    color: #ffffff;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+.contacts i{
+    display: block;
+    line-height: 120px;
+    height: 100px;
+}
+
+.form{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.form input,.form textarea{
+    margin: 8px 0px;
+    width: 100%;
+    padding: 10px;
+    height: 35px;
+    background-color: #353b48;
+    color: #ffffff;
+    outline: none;
+
+
+}
+.form .name,.form .email{
+    max-width: calc(50% - 55px);
+
+}
+
+.form .message{
+    min-height: 220px;
+    resize: vertical;
+}
+.formButton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 180px;
+    height: 40px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: transparent;
+    border: 2px #48dbfb solid;
+    font-size: 21px;
+    color: #353b48;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.formButton:hover{
+    background-color: #48dbfb;
+
+    color: #353b48;
+}
+
+
+
+
+
+
+
+
+
+
