@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.09647c8f.chunk.css",
-    "main.js": "/resume/static/js/main.67e1d48b.chunk.js",
-    "main.js.map": "/resume/static/js/main.67e1d48b.chunk.js.map",
+    "main.css": "/resume/static/css/main.1df4e026.chunk.css",
+    "main.js": "/resume/static/js/main.8a2cf9cf.chunk.js",
+    "main.js.map": "/resume/static/js/main.8a2cf9cf.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.0c8ea866.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.0c8ea866.js.map",
-    "static/js/2.a5de44c2.chunk.js": "/resume/static/js/2.a5de44c2.chunk.js",
-    "static/js/2.a5de44c2.chunk.js.map": "/resume/static/js/2.a5de44c2.chunk.js.map",
+    "static/js/2.dae1a3ca.chunk.js": "/resume/static/js/2.dae1a3ca.chunk.js",
+    "static/js/2.dae1a3ca.chunk.js.map": "/resume/static/js/2.dae1a3ca.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.cee66e5b2ca8fb7bd837a789cd25031c.js": "/resume/precache-manifest.cee66e5b2ca8fb7bd837a789cd25031c.js",
+    "precache-manifest.aa6e078a33b6e65f29f72b5e98159615.js": "/resume/precache-manifest.aa6e078a33b6e65f29f72b5e98159615.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.09647c8f.chunk.css.map": "/resume/static/css/main.09647c8f.chunk.css.map",
-    "static/js/2.a5de44c2.chunk.js.LICENSE.txt": "/resume/static/js/2.a5de44c2.chunk.js.LICENSE.txt",
+    "static/css/main.1df4e026.chunk.css.map": "/resume/static/css/main.1df4e026.chunk.css.map",
+    "static/js/2.dae1a3ca.chunk.js.LICENSE.txt": "/resume/static/js/2.dae1a3ca.chunk.js.LICENSE.txt",
     "static/media/adds.png": "/resume/static/media/adds.05c7d5af.png",
     "static/media/App.css": "/resume/static/media/bg.cf543359.jpg",
     "static/media/black-logo.png": "/resume/static/media/black-logo.ceb69ef1.png",
+    "static/media/calc.png": "/resume/static/media/calc.a47e5d21.png",
     "static/media/dyplom.png": "/resume/static/media/dyplom.137567e5.png",
     "static/media/facebook.png": "/resume/static/media/facebook.8bd7944b.png",
     "static/media/insta.png": "/resume/static/media/insta.0309014b.png",
     "static/media/marian.png": "/resume/static/media/marian.ab6978d8.png",
+    "static/media/photos.png": "/resume/static/media/photos.54b2fffa.png",
     "static/media/twitter.png": "/resume/static/media/twitter.6113728a.png",
     "static/media/work3.png": "/resume/static/media/work3.87e18a3e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0c8ea866.js",
-    "static/js/2.a5de44c2.chunk.js",
-    "static/css/main.09647c8f.chunk.css",
-    "static/js/main.67e1d48b.chunk.js"
+    "static/js/2.dae1a3ca.chunk.js",
+    "static/css/main.1df4e026.chunk.css",
+    "static/js/main.8a2cf9cf.chunk.js"
   ]
 }
