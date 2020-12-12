@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.1df4e026.chunk.css",
-    "main.js": "/resume/static/js/main.8a2cf9cf.chunk.js",
-    "main.js.map": "/resume/static/js/main.8a2cf9cf.chunk.js.map",
+    "main.js": "/resume/static/js/main.8b34853d.chunk.js",
+    "main.js.map": "/resume/static/js/main.8b34853d.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.0c8ea866.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.0c8ea866.js.map",
-    "static/js/2.dae1a3ca.chunk.js": "/resume/static/js/2.dae1a3ca.chunk.js",
-    "static/js/2.dae1a3ca.chunk.js.map": "/resume/static/js/2.dae1a3ca.chunk.js.map",
+    "static/js/2.ad9a5267.chunk.js": "/resume/static/js/2.ad9a5267.chunk.js",
+    "static/js/2.ad9a5267.chunk.js.map": "/resume/static/js/2.ad9a5267.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.aa6e078a33b6e65f29f72b5e98159615.js": "/resume/precache-manifest.aa6e078a33b6e65f29f72b5e98159615.js",
+    "precache-manifest.4142a49578e9d4f52199591d98906c2c.js": "/resume/precache-manifest.4142a49578e9d4f52199591d98906c2c.js",
     "service-worker.js": "/resume/service-worker.js",
     "static/css/main.1df4e026.chunk.css.map": "/resume/static/css/main.1df4e026.chunk.css.map",
-    "static/js/2.dae1a3ca.chunk.js.LICENSE.txt": "/resume/static/js/2.dae1a3ca.chunk.js.LICENSE.txt",
+    "static/js/2.ad9a5267.chunk.js.LICENSE.txt": "/resume/static/js/2.ad9a5267.chunk.js.LICENSE.txt",
     "static/media/adds.png": "/resume/static/media/adds.05c7d5af.png",
     "static/media/App.css": "/resume/static/media/bg.cf543359.jpg",
     "static/media/black-logo.png": "/resume/static/media/black-logo.ceb69ef1.png",
@@ -21,13 +21,14 @@
     "static/media/insta.png": "/resume/static/media/insta.0309014b.png",
     "static/media/marian.png": "/resume/static/media/marian.ab6978d8.png",
     "static/media/photos.png": "/resume/static/media/photos.54b2fffa.png",
+    "static/media/tracks.png": "/resume/static/media/tracks.8b62ad9c.png",
     "static/media/twitter.png": "/resume/static/media/twitter.6113728a.png",
     "static/media/work3.png": "/resume/static/media/work3.87e18a3e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0c8ea866.js",
-    "static/js/2.dae1a3ca.chunk.js",
+    "static/js/2.ad9a5267.chunk.js",
     "static/css/main.1df4e026.chunk.css",
-    "static/js/main.8a2cf9cf.chunk.js"
+    "static/js/main.8b34853d.chunk.js"
   ]
 }
