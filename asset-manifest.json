@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.1df4e026.chunk.css",
-    "main.js": "/resume/static/js/main.8b34853d.chunk.js",
-    "main.js.map": "/resume/static/js/main.8b34853d.chunk.js.map",
+    "main.css": "/resume/static/css/main.6ab3c749.chunk.css",
+    "main.js": "/resume/static/js/main.da4761e6.chunk.js",
+    "main.js.map": "/resume/static/js/main.da4761e6.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.0c8ea866.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.0c8ea866.js.map",
-    "static/js/2.ad9a5267.chunk.js": "/resume/static/js/2.ad9a5267.chunk.js",
-    "static/js/2.ad9a5267.chunk.js.map": "/resume/static/js/2.ad9a5267.chunk.js.map",
+    "static/js/2.268ca977.chunk.js": "/resume/static/js/2.268ca977.chunk.js",
+    "static/js/2.268ca977.chunk.js.map": "/resume/static/js/2.268ca977.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.4142a49578e9d4f52199591d98906c2c.js": "/resume/precache-manifest.4142a49578e9d4f52199591d98906c2c.js",
+    "precache-manifest.30ae59eaddafea2c60259900a995ce67.js": "/resume/precache-manifest.30ae59eaddafea2c60259900a995ce67.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.1df4e026.chunk.css.map": "/resume/static/css/main.1df4e026.chunk.css.map",
-    "static/js/2.ad9a5267.chunk.js.LICENSE.txt": "/resume/static/js/2.ad9a5267.chunk.js.LICENSE.txt",
+    "static/css/main.6ab3c749.chunk.css.map": "/resume/static/css/main.6ab3c749.chunk.css.map",
+    "static/js/2.268ca977.chunk.js.LICENSE.txt": "/resume/static/js/2.268ca977.chunk.js.LICENSE.txt",
     "static/media/adds.png": "/resume/static/media/adds.05c7d5af.png",
     "static/media/App.css": "/resume/static/media/bg.cf543359.jpg",
     "static/media/black-logo.png": "/resume/static/media/black-logo.ceb69ef1.png",
+    "static/media/blog.png": "/resume/static/media/blog.943bf111.png",
     "static/media/calc.png": "/resume/static/media/calc.a47e5d21.png",
     "static/media/dyplom.png": "/resume/static/media/dyplom.137567e5.png",
     "static/media/facebook.png": "/resume/static/media/facebook.8bd7944b.png",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0c8ea866.js",
-    "static/js/2.ad9a5267.chunk.js",
-    "static/css/main.1df4e026.chunk.css",
-    "static/js/main.8b34853d.chunk.js"
+    "static/js/2.268ca977.chunk.js",
+    "static/css/main.6ab3c749.chunk.css",
+    "static/js/main.da4761e6.chunk.js"
   ]
 }
