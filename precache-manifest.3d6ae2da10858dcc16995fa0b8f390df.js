@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b334059894803c58af798137304d6cf",
+    "revision": "349cd558a381c214839d0d800ea26399",
     "url": "/resume/index.html"
   },
   {
-    "revision": "5d075d35094286bdf5e4",
-    "url": "/resume/static/css/main.6ab3c749.chunk.css"
+    "revision": "88479ab8f223b852321a",
+    "url": "/resume/static/css/main.523861b0.chunk.css"
   },
   {
     "revision": "cc02e8268795150a4516",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/js/2.268ca977.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d075d35094286bdf5e4",
-    "url": "/resume/static/js/main.e61a7b01.chunk.js"
+    "revision": "88479ab8f223b852321a",
+    "url": "/resume/static/js/main.a54feeda.chunk.js"
   },
   {
     "revision": "08b284dc6de3fd953688",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume/static/media/insta.0309014b.png"
   },
   {
-    "revision": "ab6978d8875829ba5da4be61bd56561f",
-    "url": "/resume/static/media/marian.ab6978d8.png"
+    "revision": "e9a8c65b9a0346514f94ee1d987bf0a7",
+    "url": "/resume/static/media/marian2.e9a8c65b.jpg"
   },
   {
     "revision": "54b2fffa5d5322790e32c295551e0e6a",
