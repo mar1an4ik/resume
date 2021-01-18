@@ -1,6 +1,6 @@
 import "./About.css"
 import React from "react";
-import aboutLogo from "./images/marian.png"
+import aboutLogo from "./images/marian2.jpg"
 const About=()=>{
     return (<section id={"about-section"}>
                 <div className={"inner-width"}>
@@ -64,6 +64,13 @@ const About=()=>{
                         <div className={"skill-info"}>
                             <span>Redux</span>
                             <span>90%</span>
+                        </div>
+                        <div className={"skill-bar redux"}></div>
+                        </div>
+                        <div className={"skill"}>
+                        <div className={"skill-info"}>
+                            <span>TypeScript</span>
+                            <span>70%</span>
                         </div>
                         <div className={"skill-bar redux"}></div>
                         </div>
