@@ -16,10 +16,13 @@ const About=()=>{
                         </h3>
                         <p>
 
-                            Hello,my name is Marian and I am 21 years old.
+                            Hello,my name is Marian and I am 22 years old.
                             I live in Lviv.
-                            <br/>
-                            This year I have finished the  Lviv Polytechnic National University
+                            <div>
+                            I am learning react.js + redux for about 1,5 years.
+                            </div>
+                                <br/>
+                            I have finished the  Lviv Polytechnic National University
                             with bachelor's degree. My speciality was "<i>Computer science</i>" : "<i>Artificial Intelligence System</i>".
                             <br/>
                             As for my hobbies, I prefer sport,e-sport,UFC matches.
@@ -31,7 +34,7 @@ const About=()=>{
                         <div className={"skill"}>
                         <div className={"skill-info"}>
                             <span>React</span>
-                            <span>90%</span>
+                            <span>100%</span>
                         </div>
                         <div className={"skill-bar react"}></div>
                         </div>
@@ -55,7 +58,7 @@ const About=()=>{
                         <div className={"skill"}>
                         <div className={"skill-info"}>
                             <span>CSS</span>
-                            <span>85%</span>
+                            <span>90%</span>
                         </div>
                         <div className={"skill-bar css"}></div>
                         </div>

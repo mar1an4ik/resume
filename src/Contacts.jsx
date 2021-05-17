@@ -44,7 +44,7 @@ const Contacts=()=>{
                 <input className={cnt.email} placeholder={"Email"}/>
                 <input className={cnt.subject} placeholder={ "Subject"}/>
                 <textarea placeholder={"Message"} className={cnt.message}></textarea>
-                <button className={cnt.formButton}>Send</button>
+                <button className={cnt.formButton}>Send(not active)</button>
             </form>
 
             </div>

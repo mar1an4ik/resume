@@ -46,7 +46,7 @@ const Main=()=>{
                     </div>
                     <div className={"buttons"}>
                         <a href={"#contactsSection"}>Contact me</a>
-                        <a href={"https://drive.google.com/file/d/1AJCbYa3HEpAHBdLjDIyAs_X_V5hRmDvJ/view?usp=sharing"}>Download CV</a>
+                        <a target={"_blank"} href={"https://drive.google.com/file/d/1s1maphxWFFCUn5h1rH70t9NrE5gMIoIv/view?usp=sharing"}>Download CV</a>
                     </div>
 
                 </div>

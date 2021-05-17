@@ -40,9 +40,11 @@ const Experience=()=>{
 
                              <div className={exp.block}>
                                 <FontAwesomeIcon icon={faAddressCard} size={`3x`} color={"#48dbfb"}/>
-                                <h3>Portfolio Page</h3>
+                                <h3>Working as Junior React.js Developer</h3>
 
-                                <p>Now I am creating this page :)</p>
+                                <p>I was working 3 months on project. It was software for famous company SwiftVEE from
+                                    South Africa, which is making auctions.I was creating some pages on react.js, also
+                                    I was busy with fixing many bugs and adding some features</p>
                            </div>
 
 
